@@ -20,4 +20,4 @@ Here are my previous projects :
 
 Get in touch
 --
-- [LinkedIn](https://www.linkedin.com/in/christiano-sinaga-22a6a828a/)
+- [LinkedIn](https://www.linkedin.com/in/christiano-sinaga/)
