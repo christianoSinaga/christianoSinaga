@@ -9,7 +9,7 @@ In my previous software development project, i use Java as my main language and 
 
 Here are my previous projects :
 - Lab Management Software
-- Study Plan Card Retrieval Software
+- Portofolio Web
 
 <p align="left">
 <a href="https://github.com/christianoSinaga">
